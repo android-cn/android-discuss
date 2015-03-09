@@ -6,3 +6,5 @@
 3. 逛逛了解其他公司面试的题目  
 
 大家多 Star、Watch，一起让这个开源项目扩大，互帮互益。  
+
+Android 开发职位可见 [Android 职位列表](http://www.codekk.com/jobs)。  
