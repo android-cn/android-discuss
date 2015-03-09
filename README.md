@@ -7,4 +7,6 @@
 
 ####大家多 Star、Watch，一起让这个开源项目扩大，互帮互益。  
 
+> PS：这个项目更多是帮助大家更有方向更好的学习，所以不建议提及具体公司名。  
+
 Android 开发职位可见 [Android 职位列表](http://www.codekk.com/jobs)。  
